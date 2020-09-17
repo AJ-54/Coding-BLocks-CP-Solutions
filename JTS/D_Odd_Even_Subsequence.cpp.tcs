@@ -1,0 +1,1 @@
+[{"input":"4 2\n1 2 3 4","output":"1"},{"input":"4 3\n1 2 3 4","output":"2"},{"input":"5 3\n5 3 4 2 6","output":"2"},{"input":"6 4\n5 3 50 2 4 5","output":"3"},{"input":"5 3\n1 3 8 4 1","output":"1"},{"input":"9  4\n1 3 2 10 4 1 6 2 1","output":"1"},{"input":"3 3\n1 100000000 2","output":""}]

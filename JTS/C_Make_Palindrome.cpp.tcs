@@ -1,0 +1,1 @@
+[{"input":"aabc","output":"abba"},{"input":"aabcd","output":"abcba"},{"input":"baaaaab","output":"ababa"}]

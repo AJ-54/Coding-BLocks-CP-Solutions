@@ -1,0 +1,1 @@
+[{"input":"hi\nbob\n","output":"-\n"},{"input":"abca\naccepted\n","output":"ac\n"},{"input":"abacaba\nabcdcba\n","output":"abcba\n"}]

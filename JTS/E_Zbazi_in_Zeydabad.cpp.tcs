@@ -1,0 +1,1 @@
+[{"input":"4 4\nzzzz\nzzz.\n.z..\nzzzz\n","output":"16\n"},{"input":"1 4\nz.z.\n","output":"2\n"},{"input":"2 2\nzz\nzz\n","output":"5\n"}]
